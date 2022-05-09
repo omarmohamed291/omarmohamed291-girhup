@@ -1,0 +1,61 @@
+body { 
+    background-image: url(./image/Sunset_on_a_charming_LAKE!!.jpg);
+    background-attachment: fixed;
+    background-size:cover ;
+   } 
+   h1{
+    text-align: center;
+    font-size: 110px;
+   }
+   p{
+    direction: rtl;
+       font-size: 35px;
+       text-align: right;
+       color: rgb(255, 255, 255);
+       padding: 30px ;
+       background-color:#575b5a75;
+       border-radius: 60px
+   }
+    .video {
+        position: relative;
+        right: -291px;
+        padding: 86px 0px;
+    }
+    .map{
+        position: relative;
+        width: 6px;
+        height: 156px;
+        left: 87%;
+        bottom: 841px;
+    }
+    .pi1{
+        position: relative;
+       bottom: 150px;
+    }
+    .pi2{
+        padding: 80px 380px 80px ;
+    }
+ .mp{  
+    direction: rtl;
+    font-size: 32px;
+    color: rgb(255, 255, 255);
+    padding: 1px ;
+    background-color:#272827ba;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.774);color: aliceblue;
+ }
+ h4{
+    text-align: center;
+    color: antiquewhite;
+    font-size: 90px;
+   }
+hr{
+    margin: 60px;
+}
+.pi3{
+   padding: 40px 0px;
+}
+::selection{
+    background-color: #122222d6;
+    color: #ffd800;
+  }
